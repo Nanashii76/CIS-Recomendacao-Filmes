@@ -6,8 +6,8 @@ O sistema processa metadados de filmes para criar representações numéricas e,
 
 ## Integrantes
 
-- [Felipe Gibin]()
-- [Halycia]()
+- [Felipe Gibin](https://github.com/gibi177)
+- [Halycia](https://github.com/halycia)
 - [Paulo Lamounier](https://github.com/Nanashii76)
 - [Samuel Arthur]()
 - [Yasmin Dayrell]()
